@@ -791,15 +791,15 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "auto-clicker/Build Assets/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "MMAC";
+				INFOPLIST_KEY_CFBundleDisplayName = MMAC;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
-				MARKETING_VERSION = 1.11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.henry.mmac";
+				MARKETING_VERSION = 0.8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.henry.mmac;
 				PRODUCT_NAME = MMAC;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -823,15 +823,15 @@
 				ENABLE_PREVIEWS = YES;
 				ENABLE_USER_SCRIPT_SANDBOXING = NO;
 				INFOPLIST_FILE = "auto-clicker/Build Assets/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "MMAC";
+				INFOPLIST_KEY_CFBundleDisplayName = MMAC;
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.utilities";
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/../Frameworks",
 				);
 				MACOSX_DEPLOYMENT_TARGET = 13.0;
-				MARKETING_VERSION = 1.11.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.henry.mmac";
+				MARKETING_VERSION = 0.8.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.henry.mmac;
 				PRODUCT_NAME = MMAC;
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
